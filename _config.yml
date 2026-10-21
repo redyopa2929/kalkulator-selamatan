@@ -1,0 +1,15 @@
+title: "Kalkulator Selamatan Orang Meninggal Adat Jawa (Python)"
+description: "Kalkulator selamatan orang meninggal adat Jawa: hitung tanggal 3, 7, 40, 100 hari, mendhak, dan nyewu 1000 hari lengkap dengan pasaran. Gratis & open source."
+lang: id
+locale: id_ID
+url: "https://redyopa2929.github.io"
+baseurl: "/kalkulator-selamatan"
+author: redyopa2929
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - tests
+  - __pycache__
+  - .gitignore
